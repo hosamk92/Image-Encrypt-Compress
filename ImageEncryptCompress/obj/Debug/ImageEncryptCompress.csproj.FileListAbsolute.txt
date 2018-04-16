@@ -1,0 +1,102 @@
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+E:\studies\algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+E:\studies\algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+E:\studies\algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+E:\studies\algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+E:\studies\algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+E:\studies\algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+E:\studies\algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+E:\studies\algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+D:\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\University\sem 1 y3\Algorithm\project stuff here\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\University\sem 1 y3\Algorithm\project stuff here\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\University\sem 1 y3\Algorithm\project stuff here\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\University\sem 1 y3\Algorithm\project stuff here\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\University\sem 1 y3\Algorithm\project stuff here\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\University\sem 1 y3\Algorithm\project stuff here\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\University\sem 1 y3\Algorithm\project stuff here\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\University\sem 1 y3\Algorithm\project stuff here\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\New folder\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\New folder\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\New folder\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\New folder\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\New folder\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+D:\New folder\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\New folder\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\New folder\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Xero\Desktop\algo\Ho\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Xero\Desktop\algo\Ho\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Xero\Desktop\algo\Ho\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Xero\Desktop\algo\Ho\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Xero\Desktop\algo\Ho\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Xero\Desktop\algo\Ho\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Xero\Desktop\algo\Ho\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Xero\Desktop\algo\Ho\[TEMPLATE] ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\New folder (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\New folder (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\New folder (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\New folder (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\New folder (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+D:\New folder (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\New folder (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\New folder (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\New folder (2)\TEMPLATE-ImageEncryptCompress (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\New folder (2)\TEMPLATE-ImageEncryptCompress (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\New folder (2)\TEMPLATE-ImageEncryptCompress (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\New folder (2)\TEMPLATE-ImageEncryptCompress (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\New folder (2)\TEMPLATE-ImageEncryptCompress (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+D:\New folder (2)\TEMPLATE-ImageEncryptCompress (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\New folder (2)\TEMPLATE-ImageEncryptCompress (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\New folder (2)\TEMPLATE-ImageEncryptCompress (2)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Xero\Desktop\huffman\IMAGE HUSSAM FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Xero\Desktop\huffman\IMAGE HUSSAM FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Xero\Desktop\huffman\IMAGE HUSSAM FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Xero\Desktop\huffman\IMAGE HUSSAM FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Xero\Desktop\huffman\IMAGE HUSSAM FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Xero\Desktop\huffman\IMAGE HUSSAM FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Xero\Desktop\huffman\IMAGE HUSSAM FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Xero\Desktop\huffman\IMAGE HUSSAM FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\adel\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\adel\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\adel\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\adel\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\adel\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\adel\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\adel\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\adel\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Xero\Desktop\huffman\FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Xero\Desktop\huffman\FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Xero\Desktop\huffman\FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Xero\Desktop\huffman\FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Xero\Desktop\huffman\FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Xero\Desktop\huffman\FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Xero\Desktop\huffman\FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Xero\Desktop\huffman\FINAL\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+D:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
